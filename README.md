@@ -15,7 +15,7 @@
 - 🧑‍💻 3+ years of experience as a **DevOps Engineer**  
 - ⚡ Skilled in **CI/CD, Cloud, Containers, and Automation**  
 - 🎯 Currently exploring **DevSecOps & SRE practices**  
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **saikumarade55@gmail.com**
 
 ---
 
