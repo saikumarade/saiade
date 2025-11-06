@@ -6,7 +6,7 @@
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm Sai</h1>
 <h3 align="center">
-  <span style="color:#00BFFF">🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🛠 Automation Lover</span>
+  <span style="color:#00BFFF">🚀 DevOps Engineer | ☁️ Cloud Enthusiast |
 </h3>
 
 ---
